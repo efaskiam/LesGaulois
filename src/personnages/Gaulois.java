@@ -36,9 +36,8 @@ public class Gaulois {
 	}
 	@Override
 	public String toString() {
-		String effetPotion = null;
-		return "Gaulois [nom=" + nom + ", force=" + force
-				+ ", effetPotion=" + effetPotion + "]";
+	    return "Gaulois [nom=" + nom + ", force=" + force + ", effetPotion=" + effetPotion + "]";
 	}
+
 }
 
